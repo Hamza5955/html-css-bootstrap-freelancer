@@ -3,3 +3,30 @@
   padding: 0;
   box-sizing: border-box;
 }
+header {
+  height: 100px;
+}
+
+/* dibaug */
+#debug header {
+  background-color: aqua;
+}
+.laterali {
+  background-color: white;
+}
+
+.col-lg-6 {
+  background-color: black;
+}
+
+.hero_row > .col-lg-6,
+.laterali {
+  height: 400px;
+}
+
+.alte {
+  height: 80px;
+}
+.text-right {
+  text-align: right;
+}
