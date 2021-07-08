@@ -7,7 +7,7 @@ header {
   height: 100px;
 }
 h1 {
-  color: white;
+  color: red;
 }
 /* dibaug */
 #debug header {
@@ -70,4 +70,24 @@ h1 {
 }
 .burlywood {
   background-color: burlywood;
+}
+.start {
+  background-color: seagreen;
+  min-height: 400px;
+}
+.contact {
+  background-color: darkgray;
+  min-height: 500px;
+}
+.form {
+  min-height: 400px;
+  background-color: white;
+}
+.footer-top {
+  background-color: rgb(69, 84, 151);
+  min-height: 200px;
+}
+.copyright {
+  min-height: 80px;
+  background-color: rgb(37, 52, 121);
 }
