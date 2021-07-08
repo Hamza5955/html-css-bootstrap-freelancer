@@ -7,7 +7,7 @@ header {
   height: 100px;
 }
 h1 {
-  color: red;
+  color: white;
 }
 /* dibaug */
 #debug header {
@@ -16,13 +16,14 @@ h1 {
 .laterali {
   background-color: white;
 }
+
 .jumbo {
   background-color: darkcyan;
   min-height: 500px;
 }
-.titolo h1 {
+/* .titolo h1 {
   padding-top: 300px;
-}
+} */
 
 .border {
   border: 1px solid red;
@@ -90,4 +91,22 @@ h1 {
 .copyright {
   min-height: 80px;
   background-color: rgb(37, 52, 121);
+}
+
+/* img */
+.jumbo img {
+  width: 300px;
+}
+.line_star {
+  width: 110px;
+  height: 3px;
+  background-color: white;
+}
+.jumbo,
+.about {
+  background-color: #19b495;
+  color: white;
+}
+p {
+  padding-bottom: 30px;
 }
