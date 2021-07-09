@@ -124,6 +124,9 @@ p {
   height: 3px;
   background-color: black;
 }
+.green {
+  background-color: #1abc9c;
+}
 
 footer {
   color: white;
