@@ -11,11 +11,11 @@ h1 .white {
 }
 /* dibaug */
 #debug header {
-  background-color: rgb(17, 76, 116);
+  background-color: #2f4052;
 }
-.laterali {
+/* .laterali {
   background-color: white;
-}
+} */
 
 .jumbo {
   background-color: darkcyan;
@@ -75,22 +75,22 @@ h1 .white {
   background-color: seagreen;
   min-height: 400px;
 }
-.contact {
+/* .contact {
   background-color: darkgray;
   min-height: 500px;
-}
+} */
 .form {
   min-height: 400px;
   background-color: white;
 }
-.footer-top {
+/* .footer-top {
   background-color: rgb(69, 84, 151);
   min-height: 200px;
 }
 .copyright {
   min-height: 80px;
   background-color: rgb(37, 52, 121);
-}
+} */
 
 /* img */
 .jumbo img {
@@ -123,4 +123,33 @@ p {
   width: 110px;
   height: 3px;
   background-color: black;
+}
+
+footer {
+  color: white;
+}
+.footer-top {
+  margin-top: 30px;
+  background-color: #3d566e;
+  padding-top: 30px;
+}
+.copyright {
+  background-color: #2f4052;
+}
+.link_green {
+  color: #1abc9c;
+  text-decoration: none;
+}
+h4 {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+footer i {
+  padding: 5px 8px;
+  border: 1px solid white;
+  border-radius: 100%;
+}
+.copyright div {
+  padding: 10px;
+  font-size: 20px;
 }
